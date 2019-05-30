@@ -1,1 +1,1 @@
-FREOM ikubernetes/myapp:v1
+FROM ikubernetes/myapp:v1
